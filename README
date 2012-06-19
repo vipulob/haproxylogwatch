@@ -1,0 +1,4 @@
+This program is a HAProxy log watch. 
+It will analyze the logs of HAProxy and give info.
+Try it out.
+Its just in a very nascent stage.
